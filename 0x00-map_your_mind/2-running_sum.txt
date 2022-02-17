@@ -1,0 +1,10 @@
+Calculate a running sum
+A user will enter numbers that will be added to the sum and when a negative number is encountered, stop adding numbers and write out the final result
+
+START
+	Read numbers
+	Declare result
+	While number != -1:
+		result= number + number
+	Display result
+END
