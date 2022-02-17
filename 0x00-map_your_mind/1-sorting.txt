@@ -1,0 +1,11 @@
+This program sorts three numbers and displays them in a sorted order
+
+START
+	array[0] = input1
+	array[1]=input2
+	array[3]=input3
+	
+	results=sort(array)
+		for counter; counter<array.length; counter ++:
+			display results
+END
