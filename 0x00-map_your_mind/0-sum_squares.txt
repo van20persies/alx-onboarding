@@ -1,1 +1,9 @@
-this is the pseudocode
+This program calculates the sum of squares of given input of numbers
+
+START
+	Declare Input_number, results
+	Read Input_number
+	results = Input_number * Input_number
+	Display results
+END
+
